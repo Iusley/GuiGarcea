@@ -1,6 +1,6 @@
-Hey! Sou Guilherme Garcia 🤠
+Hey! Sou o Guilherme Garcia 🤠
 
-- 🔭 Estou procurando estágio com front-end
+- 🔭 Procurando trabalho com front-end
 - 🧑‍🎓 Estudando HTML, CSS, JS, etc..
 
 <div align="center">
