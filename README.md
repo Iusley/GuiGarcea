@@ -1,7 +1,7 @@
 Hey! Sou o Guilherme Garcia 🤠
 
-- 🔭 Procurando trabalho com front-end
-- 🧑‍🎓 Estudando HTML, CSS, JS, etc..
+- 🔭 Procurando estágio/junior como desenvolvedor.
+- 🧑‍🎓 Estudando HTML5, CSS3, REACT, JAVASCRIPT, JAVA, SQL
 
 <div align="center">
   <a href="https://github.com/guigarcea">
